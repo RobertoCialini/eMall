@@ -59,9 +59,9 @@ eMall follows a **three-tier architecture**:
 
 Mockups have been designed to illustrate the user experience for both **Drivers** and **Administrators**. These mockups ensure that the interface is user-friendly and accessible.
 
-<div align="center">
-  <img src="images/driver_mockup.png" height="512px" style="display: inline-block; margin: 0; padding: 0;"/>
-  <img src="images/admin_mockup.png" height="512px" style="display: inline-block; margin: 0; padding: 0;"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="images/driver_mockup.png" height="400px" style="flex: 1;"/>
+  <img src="images/admin_mockup.png" height="400px" style="flex: 1;"/>
 </div>
 
 ## Group components
